@@ -15,6 +15,7 @@
 		3A2BBF6D1BCDDDA900B23285 /* HangmanWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF6C1BCDDDA900B23285 /* HangmanWords.swift */; settings = {ASSET_TAGS = (); }; };
 		3A2BBF6F1BCDDEBB00B23285 /* words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A2BBF6E1BCDDEBB00B23285 /* words.plist */; settings = {ASSET_TAGS = (); }; };
 		3A2BBF731BCDE37800B23285 /* Hangman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF721BCDE37800B23285 /* Hangman.swift */; settings = {ASSET_TAGS = (); }; };
+		8FE4D4C71BD789D1006F5C7B /* Hangman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FE4D4C61BD789D1006F5C7B /* Hangman.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3A2BBF6C1BCDDDA900B23285 /* HangmanWords.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HangmanWords.swift; sourceTree = "<group>"; };
 		3A2BBF6E1BCDDEBB00B23285 /* words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = words.plist; sourceTree = "<group>"; };
 		3A2BBF721BCDE37800B23285 /* Hangman.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hangman.swift; sourceTree = "<group>"; };
+		8FE4D4C61BD789D1006F5C7B /* Hangman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hangman.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				3A2BBF701BCDE24000B23285 /* Views */,
 				3A2BBF6B1BCDDD7B00B23285 /* Words */,
 				3A2BBF591BCDDAC200B23285 /* AppDelegate.swift */,
+				8FE4D4C61BD789D1006F5C7B /* Hangman.jpg */,
 				3A2BBF5D1BCDDAC200B23285 /* Main.storyboard */,
 				3A2BBF601BCDDAC200B23285 /* Assets.xcassets */,
 				3A2BBF621BCDDAC200B23285 /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 				3A2BBF6F1BCDDEBB00B23285 /* words.plist in Resources */,
 				3A2BBF641BCDDAC200B23285 /* LaunchScreen.storyboard in Resources */,
 				3A2BBF611BCDDAC200B23285 /* Assets.xcassets in Resources */,
+				8FE4D4C71BD789D1006F5C7B /* Hangman.jpg in Resources */,
 				3A2BBF5F1BCDDAC200B23285 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
